@@ -54,6 +54,7 @@
     height: 56px;
     background: #FFBD70;
     border-radius: 10px;
+    cursor: pointer;
 }
 
 .google img{
@@ -119,25 +120,23 @@
     color: #3F7BF0;
 }
 
+
+
 .btn-login{
     margin-left: 55px;
     margin-top: 30px;
-    position: absolute;
     width: 200px;
     height: 56px;
     background: #FFBD70;
     border-radius: 10px;
-}
-
-.btn-login h2{
-    margin-top: 20px;
-    text-align: center;
+    border: none;
     font-family: Roboto;
     font-style: normal;
     font-weight: bold;
     font-size: 18px;
     line-height: 21px;
     color: #FFFFFF;
+    cursor: pointer;
 }
 
 .noaccount{

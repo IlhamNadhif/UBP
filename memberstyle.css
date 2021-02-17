@@ -1,0 +1,122 @@
+
+.container{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 624px;
+    height: 1024px;
+    background: #F3D083;
+}
+
+.title{
+    position: relative;
+    left: 61px;
+    top: 40px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 72px;
+    color: #FB5B5B;
+}
+
+.subtitle{
+    position: relative;
+    left: 63px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    color: #866211;
+}
+
+.logo{
+    position: absolute;
+    width: 698px;
+    height: 610px;
+    left: -60px;
+    top: 285px;
+}
+
+.form{
+    float: right;
+    margin-top: 186px;
+    margin-right: 200px;
+}
+
+.form h1{
+    font-family: Roboto;
+    font-size: 50px;
+    line-height: 42px;
+    color: #4285F4;
+    margin-bottom: 60px;
+}
+
+.judul{
+    margin-top: 30px;
+    font-family: Roboto;
+    font-size: 18px;
+    color: #000000;
+}
+
+.textfield{
+    border: none;
+    width: 464px;
+    height: 44px;
+    background: #F5F6F7;
+    border-radius: 10px;
+}
+
+input[type="file"]{
+    display: none;
+}
+
+label{
+    cursor: pointer;
+    padding: 10px;
+    color: white;
+    border-radius: 5px;
+    background-color: #F5af09;
+    justify-content: center;
+    align-items: center;
+    font-family: Roboto;
+    font-size: 18px;
+}
+
+.choose-file{
+    margin-top: -4px;
+    position: absolute;
+}
+
+.cv{
+    float: left;
+}
+
+.sertifikat{
+    float: left;
+    margin-left: 55px;
+}
+.portofolio{
+    float: left;
+    margin-left: 55px;
+}
+
+.btn-reg{
+    position: absolute;
+    margin-top: 180px;
+    margin-left: -468px;
+    background: #EA4C89;
+    border-radius: 5px;
+    border: none;
+    font-family: Roboto;
+    font-size: 18px;
+    color: #FFFFFF;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 80px;
+    padding-left: 80px;
+}
+
+
+
+
+
